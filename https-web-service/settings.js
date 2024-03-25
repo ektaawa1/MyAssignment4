@@ -1,0 +1,1 @@
+export const GITHUB_ACCESS_TOKEN = process.env.GITHUB_ACCESS_TOKEN || '8798378wyrwhfj2882u3u4'
